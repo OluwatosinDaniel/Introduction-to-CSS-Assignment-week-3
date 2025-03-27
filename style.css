@@ -1,0 +1,24 @@
+/* Style for the main title */
+.main-title {
+    color: blue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    
+}
+
+/* Style for the paragraph */
+#intro {
+    font-size: 18px;
+    color: #333;
+    margin: 20px;
+}
+
+/* Style for the image */
+.styled-image {
+    width: 300px;
+    border: 3px solid black;
+    padding: 10px;
+    display: block;
+    margin: 20px auto;
+}
+
